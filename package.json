@@ -1,0 +1,29 @@
+{
+  "name": "hatenablog-mixed-content-finder",
+  "description": "Mixed Content Finder for hatenablog with Puppeteer.",
+  "version": "1.0.0",
+  "author": "Ryoichi Obara <npmjs0102@gmail.com> (http://ryoichi0102.hatenablog.com/)",
+  "bugs": {
+    "url": "https://github.com/ryoichi-obara/hatenablog-mixed-content-finder/issues"
+  },
+  "dependencies": {
+    "puppeteer-core": "^1.10.0"
+  },
+  "homepage": "https://github.com/ryoichi-obara/hatenablog-mixed-content-finder#readme",
+  "keywords": [
+    "https",
+    "mixed-content",
+    "node.js",
+    "puppeteer",
+    "web-scraper"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryoichi-obara/hatenablog-mixed-content-finder.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
